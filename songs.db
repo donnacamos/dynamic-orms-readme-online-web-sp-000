@@ -1,0 +1,2 @@
+INSERT INTO songs (name, album)
+VALUES 'Hello', '25';
